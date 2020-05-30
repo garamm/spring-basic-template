@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.garamm.springbootstudy.SpringBootStudyApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.365 s <<< FAILURE! - in com.garamm.springbootstudy.SpringBootStudyApplicationTests
-com.garamm.springbootstudy.SpringBootStudyApplicationTests  Time elapsed: 0.363 s  <<< ERROR!
-java.lang.NoClassDefFoundError: org/springframework/core/annotation/MergedAnnotations$SearchStrategy
-Caused by: java.lang.ClassNotFoundException: org.springframework.core.annotation.MergedAnnotations$SearchStrategy
-
